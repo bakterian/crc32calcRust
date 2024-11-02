@@ -6,7 +6,8 @@ Small rust library package for calculating CRC32 checksums
   
 ## How does it work 
 The library calculates CRC32 checksum value based on the input payload.  
-Users can precisely specify the calculation method and boundy parameters.
+Users can precisely specify the calculation method and boundy parameters (in work).
+Currently contains a lot of logging points as the final product is still in the making.
   
 ## Prerequisites for usage
 - git
